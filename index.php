@@ -11,9 +11,7 @@ header('X-XSS-Protection: 1; mode=block');
 </head>
 <body>
 	<center>
-		<h3> Welcome to Jenkins ! </h3>
-		<h2> Hello World! </h2>
-		<h1> Gordon is here ! </h1>
+		
 		<table>
 			<td>
 				<img src="uthm2.jpg" alt="Trulli" width="200" height="100">
