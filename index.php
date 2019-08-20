@@ -31,7 +31,7 @@ header('X-XSS-Protection: 1; mode=block');
 		<h3>Student: Use your matric no as username and ic as password</h3>
 		<h2>*User are required to change their password during their first login*</h2>
 
-
+		<h2> Hello Hai </h2>
 			<button onclick="myFunction2()">Login as lecturer</button>
 
 			<script>
